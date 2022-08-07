@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PrinuVinod
+- 👀 I’m interested in learning more and more.
+- 🌱 I’m currently learning BTech Computer Science
+- 💞️ I’m looking to collaborate on Full stack Web Development
+- 📫 Reach Me on my mail prinuvinod@gmail.com
