@@ -15,3 +15,5 @@
 <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
 <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
 <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
+
+![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
