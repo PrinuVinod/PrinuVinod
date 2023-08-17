@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning more and more.
 - 🌱 I’m currently learning B.Tech Computer Science
 - 💞️ I’m looking to collaborate on Full stack Web Development
+- Check out my [CV](https://drive.google.com/file/d/13DHIj1UCJni6K82PY0ain3fZZyN4u1Lt/view?usp=drive_link)
 
 
 `Contact Me`<br>
