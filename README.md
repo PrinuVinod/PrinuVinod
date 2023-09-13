@@ -10,6 +10,7 @@
 [<img src="github.png" width="90" title="github">](https://github.com/PrinuVinod)
 [<img src="discord.gif" width="90" title="Discord">](https://www.discordapp.com/users/PVNLegend#1585)
 [<img src="email.gif" width="90" title="gmail">](mailto:prinuvinod@gmail.com)
+[<img src="logo.png" width="90" title="My Website">](https://prinuvinod.github.io/My-Website/)
 <br>
 `Languages I Know`<br>
 <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="python">
