@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more and more.
 - 🌱 I’m currently learning B.Tech Computer Science
 - 💞️ I’m looking to collaborate on Full stack Web Development
-- Check out my [Resume](https://drive.google.com/file/d/1nRjEODaF1zRCfyCSxuO0xEaVeySz252y/view?usp=sharing)
+- Check out my [Resume](https://www.canva.com/design/DAF0WIiz9E8/mkq1gi3r21LSqPKBZ8CKwg/edit?utm_content=DAF0WIiz9E8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 `Contact Me`<br>
