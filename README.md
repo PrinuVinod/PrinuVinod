@@ -14,7 +14,7 @@ I'm [Prinu Vinod](https://github.com/PrinuVinod), a B.Tech Computer Science stud
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="50" src="c.gif"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
@@ -23,4 +23,3 @@ I'm [Prinu Vinod](https://github.com/PrinuVinod), a B.Tech Computer Science stud
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinuVinod&show_icons=true&count_private=true&hide=contribs&theme=dark)
-
