@@ -1,16 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Prinu+Vinod;A+Computer+Science+Student;I'm+a+beginner;Want+to+Learn+more;)](https://git.io/typing-svg)
-
 # Hi there! 👋
 
-I'm [Prinu Vinod](https://github.com/PrinuVinod), a B.Tech Computer Science student who's passionate about Full Stack Web Development. 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Prinu+Vinod;A+Computer+Science+Student;I'm+a+Beginner;Want+to+Learn+more;)](https://git.io/typing-svg)
 
 <div align="center">
-  
+
 ---
 
 ## About Me
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" height="600">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding">
 
 ### 📬 Connect with Me:
 
@@ -40,7 +38,21 @@ I'm [Prinu Vinod](https://github.com/PrinuVinod), a B.Tech Computer Science stud
 
 ---
 
+
+## Top Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinuVinod&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PrinuVinod&theme=dark&hide_border=true)](https://git.io/streak-stats))
+
+---
+
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinuVinod&show_icons=true&count_private=true&hide=contribs&theme=dark)
+
 </div>
