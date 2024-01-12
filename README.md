@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Prinu+Vinod;A+Computer+Science+Student;I'm+a+Beginner;Want+to+Learn+more;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Prinu+Vinod;A+Computer+Science+Student.;I'm+a+Beginner.;Want+to+Learn+more.;)](https://git.io/typing-svg)
 
 <div align="center">
 
