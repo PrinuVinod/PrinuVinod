@@ -44,6 +44,7 @@
 
 ## Projects
 
+<code><a href="https://prinuvinod.me" target="_blank"><img src="Projects/logonobg.png" height="100"></a></code>
 <code><a href="https://connexa-mini.vercel.app/" target="_blank"><img src="Projects/connexa.jpg" height="100"></a></code>
 <code><a href="https://4zlt4w-3000.csb.app/register" target="_blank"><img src="Projects/AuthLogo.jpg" height="100"></a></code>
 <code><a href="https://tvcw9y-3000.csb.app" target="_blank"><img src="Projects/houselogo.png" height="100"></a></code>
