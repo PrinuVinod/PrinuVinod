@@ -24,6 +24,8 @@
 
 ---
 
+<br>
+
 ## Languages and Tools
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
@@ -38,6 +40,22 @@
 
 ---
 
+<br>
+
+## Projects
+
+<code><a href="https://connexa-mini.vercel.app/" target="_blank"><img src="Projects/connexa.jpg" height="100"></a></code>
+<code><a href="https://4zlt4w-3000.csb.app/register" target="_blank"><img src="Projects/AuthLogo.jpg" height="100"></a></code>
+<code><a href="https://tvcw9y-3000.csb.app" target="_blank"><img src="Projects/houselogo.png" height="100"></a></code>
+<code><a href="https://5pgxcl-3000.csb.app/" target="_blank"><img src="Projects/ayyiyekhayiyelogo.png" height="100"></a></code>
+<code><a href="https://scienceexcursion.in/index.html" target="_blank"><img src="Projects/sbg.png" height="100"></a></code>
+<code><a href="https://prinuvinod.github.io/AgriVision/" target="_blank"><img src="Projects/ALogo.png" height="100"></a></code>
+<code><a href="https://prinuvinod.github.io/Contact-Form/" target="_blank"><img src="Projects/contactLogo.png" height="100"></a></code>
+<code><a href="https://gdsc-ajce.github.io/home/" target="_blank"><img src="Projects/GDSCLogo.png" height="100"></a></code>
+
+---
+
+<br>
 
 ## Top Languages Used
 
