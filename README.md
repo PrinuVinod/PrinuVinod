@@ -50,7 +50,7 @@
 <code><a href="https://tvcw9y-3000.csb.app" target="_blank"><img src="Projects/houselogo.png" height="100"></a></code>
 <code><a href="https://dd6255-3000.csb.app/" target="_blank"><img src="Projects/ayyiyekhayiyelogo.png" height="100"></a></code>
 <code><a href="https://scienceexcursion.in/index.html" target="_blank"><img src="Projects/sbg.png" height="100"></a></code>
-<code><a href="https://prinuvinod.github.io/AgriVision/" target="_blank"><img src="Projects/ALogo.png" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/AgriVision" target="_blank"><img src="Projects/ALogo.png" height="100"></a></code>
 <code><a href="https://prinuvinod.github.io/Contact-Form/" target="_blank"><img src="Projects/contactLogo.png" height="100"></a></code>
 <code><a href="https://gdsc-ajce.github.io/home/" target="_blank"><img src="Projects/GDSCLogo.png" height="100"></a></code>
 
