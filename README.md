@@ -20,7 +20,7 @@
 ### 🌐 Explore My World:
 
 [![Check out my Website](https://img.shields.io/badge/Check%20out%20my-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prinuvinod.github.io/My-Website/)
-[![View Resume](https://drive.google.com/file/d/1NQMQd2Cd9XduQfjoO6C7AeZ00vQx5sxz/view?usp=sharing)
+[![View Resume](https://img.shields.io/badge/View-Resume-9cf?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1NQMQd2Cd9XduQfjoO6C7AeZ00vQx5sxz/view?usp=sharing)
 
 ---
 
