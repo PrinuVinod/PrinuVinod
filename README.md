@@ -59,7 +59,7 @@
 <code><a href="https://github.com/PrinuVinod/Exam-Registration" target="_blank"><img src="Projects/ERLogo.png" height="100"></a></code>
 <code><a href="https://github.com/PrinuVinod/Subtitle-Generator-from-Audio-Input" target="_blank"><img src="Projects/sbg.png" height="100"></a></code>
 <code><a href="https://github.com/PrinuVinod/RAM" target="_blank"><img src="Projects/RAMLogo.png" height="100"></a></code>
-<code><a href="https://github.com/PrinuVinod/EvolvX-24" target="_blank"><img src="Projects/evolvexLogo.png" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/EvolvX-24" target="_blank"><img src="Projects/evolvxLogo.png" height="100"></a></code>
 
 ---
 
