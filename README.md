@@ -49,13 +49,17 @@
 
 <code><a href="https://prinuvinod.me" target="_blank"><img src="Projects/logonobg.png" height="100"></a></code>
 <code><a href="https://connexa-mini.vercel.app/" target="_blank"><img src="Projects/connexa.jpg" height="100"></a></code>
-<code><a href="https://4zlt4w-3000.csb.app/register" target="_blank"><img src="Projects/AuthLogo.jpg" height="100"></a></code>
-<code><a href="https://tvcw9y-3000.csb.app" target="_blank"><img src="Projects/houselogo.png" height="100"></a></code>
-<code><a href="https://dd6255-3000.csb.app/" target="_blank"><img src="Projects/ayyiyekhayiyelogo.png" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/Authentication-Website" target="_blank"><img src="Projects/AuthLogo.jpg" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/Inventory-App" target="_blank"><img src="Projects/houselogo.png" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/ayyiye-khaiye" target="_blank"><img src="Projects/ayyiyekhayiyelogo.png" height="100"></a></code>
 <code><a href="https://scienceexcursion.in/index.html" target="_blank"><img src="Projects/sbg.png" height="100"></a></code>
 <code><a href="https://github.com/PrinuVinod/AgriVision" target="_blank"><img src="Projects/ALogo.png" height="100"></a></code>
 <code><a href="https://prinuvinod.github.io/Contact-Form/" target="_blank"><img src="Projects/contactLogo.png" height="100"></a></code>
 <code><a href="https://gdsc-ajce.github.io/home/" target="_blank"><img src="Projects/GDSCLogo.png" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/Exam-Registration" target="_blank"><img src="Projects/ERLogo.png" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/Subtitle-Generator-from-Audio-Input" target="_blank"><img src="Projects/sbg.png" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/RAM" target="_blank"><img src="Projects/RAMLogo.png" height="100"></a></code>
+<code><a href="https://github.com/PrinuVinod/EvolvX-24" target="_blank"><img src="Projects/evolvexLogo.png" height="100"></a></code>
 
 ---
 
