@@ -15,7 +15,7 @@
 
 ### 📬 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prinu-vinod-nair-92b533242/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prinu-vinod-92b533242/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/PVNLegend#1585)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/p_v_n_legendary)
 [![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:prinuvinod@gmail.com)
@@ -23,7 +23,7 @@
 ### 🌐 Explore My Stuff:
 
 [![Check out my Website](https://img.shields.io/badge/Check%20out%20my-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prinuvinod.tech/)
-[![View Resume](https://img.shields.io/badge/View-Resume-9cf?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pGG5RlvJ-SnCxRTgK4NnB_zWTDkZXKTd/view?usp=sharing)
+[![View Resume](https://img.shields.io/badge/View-Resume-9cf?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xjSD15Qfo5cSRqoe_dTm2dvGxsNYjI9N/view?usp=sharing)
 
 ---
 
