@@ -23,7 +23,7 @@
 ### 🌐 Explore My Stuff:
 
 [![Check out my Website](https://img.shields.io/badge/Check%20out%20my-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prinuvinod.tech/)
-[![View Resume](https://img.shields.io/badge/View-Resume-9cf?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xjSD15Qfo5cSRqoe_dTm2dvGxsNYjI9N/view?usp=sharing)
+[![View Resume](https://img.shields.io/badge/View-Resume-9cf?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1vn1lDSZ29G1NfQmoFUOFMWfOsu4_4_AM/view?usp=sharing)
 
 ---
 
