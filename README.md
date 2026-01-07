@@ -47,7 +47,7 @@
 
 ## Projects
 
-<code><a href="https://prinuvinod.me" target="_blank"><img src="Projects/logonobg.png" height="100"></a></code>
+<code><a href="https://prinuvinod.github.io/My-Website/" target="_blank"><img src="Projects/logonobg.png" height="100"></a></code>
 <code><a href="https://connexa-mini.vercel.app/" target="_blank"><img src="Projects/connexa.jpg" height="100"></a></code>
 <code><a href="https://github.com/PrinuVinod/Authentication-Website" target="_blank"><img src="Projects/AuthLogo.jpg" height="100"></a></code>
 <code><a href="https://github.com/PrinuVinod/Inventory-App" target="_blank"><img src="Projects/houselogo.png" height="100"></a></code>
